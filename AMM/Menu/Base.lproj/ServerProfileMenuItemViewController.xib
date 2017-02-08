@@ -39,7 +39,7 @@
                                     <constraint firstAttribute="height" constant="20" id="ybe-ZL-SJb"/>
                                 </constraints>
                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="DLSpeed" id="Egx-LR-SK7">
-                                    <font key="font" size="13" name="Monaco"/>
+                                    <font key="font" size="13" name="Iosevka"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -54,7 +54,7 @@
                                     <constraint firstAttribute="width" constant="76" id="zNu-HH-MEd"/>
                                 </constraints>
                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="ULSpeed" id="ig6-AX-XYQ">
-                                    <font key="font" size="13" name="Monaco"/>
+                                    <font key="font" size="13" name="Iosevka"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
