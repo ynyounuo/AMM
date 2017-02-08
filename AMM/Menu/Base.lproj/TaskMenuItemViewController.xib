@@ -47,7 +47,7 @@
                                     <constraint firstAttribute="height" constant="20" id="xoK-CF-j7l"/>
                                 </constraints>
                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="BF5-h3-sE9">
-                                    <font key="font" size="13" name="Monaco"/>
+                                    <font key="font" size="13" name="Iosevka"/>
                                     <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -71,7 +71,7 @@
                                     <constraint firstAttribute="width" constant="76" id="cLm-Vw-5RU"/>
                                 </constraints>
                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="b8r-a2-kgj">
-                                    <font key="font" size="13" name="Monaco"/>
+                                    <font key="font" size="13" name="Iosevka"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -85,7 +85,7 @@
                                     <constraint firstAttribute="width" constant="80" id="3VS-yo-U1O"/>
                                 </constraints>
                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="sKO-40-PLl">
-                                    <font key="font" size="13" name="Monaco"/>
+                                    <font key="font" size="13" name="Iosevka"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
